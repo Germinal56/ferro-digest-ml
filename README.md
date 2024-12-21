@@ -1,2 +1,1 @@
-# solomon
-Solomon is my attempt at speeding up solo development using breakthrough tech.
+Article/ Fact/ Relevancy Classifier Models ML
