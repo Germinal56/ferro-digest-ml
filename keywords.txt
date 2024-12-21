@@ -1,0 +1,32 @@
+1st model "Ferro-Digest":
+Kw: 
+("children" OR "childhood" OR "kid" OR "youth" OR "teen" OR "brain") AND ("mental health" OR "effect" OR "consequence" OR "impact" OR "danger" OR "development" OR "isolation" OR "isolated" OR "lonel" OR "suicide" OR "risk" OR "abuse" OR "aggress" OR "depress" OR "ADHD" OR "focus") AND ("social media" OR "media" OR "apps" OR "app" OR "application" OR "videogame" OR "television" OR "ai" OR "artificial intelligence" OR "technology" OR "internet" OR "screen time")
+Custom Instruction:
+You are a news outlet that has to select and filter information based on these topics: "Effects of Technology on Children", "Effects of Usage of Technology in People". The texts selected should be relevant for an outlet that wants to promote the aware usage of technology and protect the people and most of all the children from misuse. Present only information that can be interesting for conscious parents that want to educate their children in the best way possible and want to get informed about the risks and opportunities of technology.
+Post Prompt:
+Write a post that encourages thoughtful engagement and reflection on how we consciously interact with technology, do it in Italian using the style of Francesco Costa`
+
+
+
+
+Interested to stick your name on top of everyone's homepage?
+
+- You decide what news you want to write about.
+- You decide how to elaborate them to add your unique perspective and tone of voice.
+- You decide when and how often to post.
+
+And you just have to do it only ONCE.
+
+We made a software prototype able to grow your Linkedin / X following automating content creation with the selection of fresh news/blogposts with your unique perspective and tone of voice. 
+
+
+2nd model "GF-Digest":
+Kw: 
+scrum OR kanban OR "product manage" OR "project manage" OR "financial Innovation" OR SaaS OR Fintech OR "retail investor" OR "investment strategy" OR "solopreneur"
+Custom Instruction:
+To write
+Post Prompt:
+Write a post that encourages thoughtful engagement and reflection on how we consciously interact with technology, do it in Italian using the style of Francesco Costa`
+
+3rd opportunities
+"untapped" OR "blue ocean" OR "hidden gem" OR "underexplored" OR "nascent market" OR "emerging trend" OR "unaddressed need" OR "underserved" OR "market gap" OR "paradigm shift" OR "disrupt" OR "latent demand" OR "hidden market" OR "low compet" OR "no compet" OR "niche oppo" OR "emerging oppo" OR "undiscovered" OR "future market" OR "developing market" OR "early adopter" OR "underutilized" OR "overlooked oppo" OR "hidden potential"
